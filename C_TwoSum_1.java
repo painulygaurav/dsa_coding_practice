@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum_1 {
+public class C_TwoSum_1 {
     /**
      * Leet code 1 Two sum
      * Given an array of integers nums and an integer targer, return indices of the two numbers such that they add up to target.
