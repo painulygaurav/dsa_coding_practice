@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class GroupAnagram_49 {
+public class D_GroupAnagram_49 {
     static List<List<String>> groupAnagramsBruteForce(String[] strings){
         List<List<String>> result = new ArrayList<>();
         if(strings == null || strings.length == 0) return result;

@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class ContainsDuplicate_217 {
+public class A_ContainsDuplicate_217 {
     /**
      * Question:
      * Given an integer array "nums", return true if any value appears at least twice in the array, and return

@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class ValidAnagram_242 {
+public class B_ValidAnagram_242 {
     public static void main(){
         System.out.println(isAnagramWithHashMap("anagram", "nagaram"));
         System.out.println(isAnagramWithArray("anagram", "nagaram"));
